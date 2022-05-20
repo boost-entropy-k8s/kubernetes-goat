@@ -35,7 +35,10 @@
     </a>    
     <a href="https://twitter.com/intent/tweet/?text=Kubernetes%20Goat,%20an%20intentionally%20vulnerable%20by%20design%20training%20platform%20to%20learn%20%23Kubernetes%20Security%20by%20%40madhuakula.%20Check%20it%20out%20&url=https://github.com/madhuakula/kubernetes-goat">
         <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https://github.com/madhuakula/kubernetes-goat" />
-    </a>    
+    </a>
+    <a href="https://rebrand.ly/Kubernetes-Goat/">
+        <img alt="Discord" src="https://img.shields.io/discord/976503864268308580?color=9cf&label=Discord&logo=discord&logoColor=white" />
+    </a>
 </p>
 
 [![Kubernetes Goat Home](./kubernetes-goat-home.png)](https://madhuakula.com/kubernetes-goat)
@@ -113,7 +116,7 @@ Here is the detailed step by step [documentation guide](https://madhuakula.com/k
 
 > Kubernetes Goat is used for educational purposes only, do not test or apply these attacks on any systems without permission. Kubernetes Goat comes with absolutely no warranties, by using it you take full responsibility for all the outcomes.
 
-## 🪪 License
+## 📝 License
 
 [MIT](https://github.com/madhuakula/kubernetes-goat/blob/master/LICENSE)
 
@@ -153,5 +156,7 @@ Thanks go to these wonderful people 🎉
   <tr>
         <td align="center"><a href="https://github.com/adamhurm"><img alt="adamhurm"
                     src="https://avatars.githubusercontent.com/u/13396996?v=4" width="100" /><br />adamhurm</a></td>
+        <td align="center"><a href="https://github.com/0xCardinal"><img alt="0xCardinal"
+                    src="https://avatars.githubusercontent.com/u/77858203?v=4" width="100" /><br />0xCardinal</a></td>
   </tr>
 </table>
